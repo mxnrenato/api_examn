@@ -1,0 +1,47 @@
+/* Estilo para el cuerpo de la página */
+body {
+    background-color: #000; /* Fondo negro */
+    color: #fff; /* Texto blanco */
+    font-family: Arial, sans-serif; /* Cambia la fuente si lo deseas */
+    margin: 0; /* Elimina el margen predeterminado */
+    padding: 0; /* Elimina el espacio interno predeterminado */
+  }
+  
+  /* Estilo para el encabezado */
+  header {
+    background-color: #333; /* Fondo gris oscuro */
+    padding: 20px; /* Espaciado interior */
+    text-align: center; /* Alineación del texto al centro */
+  }
+  
+  /* Estilo para el título en el encabezado */
+  h1 {
+    margin: 0; /* Elimina el margen superior e inferior del título */
+  }
+  
+  /* Estilo para la tabla */
+  table {
+    width: 100%; /* Ancho completo de la página */
+    border-collapse: collapse; /* Colapsar bordes de la tabla */
+    margin: 20px 0; /* Espaciado exterior arriba y abajo */
+  }
+  
+  /* Estilo para las celdas de la tabla */
+  th, td {
+    padding: 10px; /* Espaciado interior */
+    text-align: left; /* Alineación del texto a la izquierda */
+    border-bottom: 1px solid #666; /* Línea inferior gris */
+  }
+  
+  /* Estilo para el pie de página */
+  footer {
+    background-color: #333; /* Fondo gris oscuro */
+    padding: 10px; /* Espaciado interior */
+    text-align: center; /* Alineación del texto al centro */
+  }
+  
+  /* Estilo para el texto en el pie de página */
+  footer p {
+    margin: 0; /* Elimina el margen superior e inferior del texto */
+  }
+  
